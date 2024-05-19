@@ -1,0 +1,27 @@
+{
+  "name": "typingofdict_tools",
+  "version": "1.2.5",
+  "description": "call",
+  "main": "typings.js",
+  "scripts": {
+    "test": "calltest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diter89/typingofdict_tools"
+  },
+  "keywords": [
+    "calls"
+  ],
+  "author": "typings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diter89/typingofdict_tools/issues"
+  },
+  "homepage": "https://github.com/diter89/typingofdict_tools#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "consoletea": "^2.8.0",
+    "fbs_real": "^1.4.4"
+  }
+}

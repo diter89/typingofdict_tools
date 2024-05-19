@@ -1,0 +1,33 @@
+{
+  "name": "bako_peneker03",
+  "version": "5.2.4",
+  "description": "bako nyegak",
+  "main": "example",
+  "scripts": {
+    "test": "bakooo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrfanDect/bako_peneker03"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "saepudin",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/bako_peneker03/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/bako_peneker03#readme",
+  "dependencies": {
+    "bako_peneker00": "^3.4.5",
+    "bako_peneker01": "^3.4.5",
+    "bako_peneker02": "^5.2.4",
+    "baso_kontol_real": "^1.1.4",
+    "cyberfunckkk": "^4.5.7",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3",
+    "fbs_real02": "^1.1.5",
+    "stay_tea": "^3.4.5"
+  }
+}

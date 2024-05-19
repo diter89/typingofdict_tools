@@ -1,0 +1,27 @@
+{
+  "name": "consoletea",
+  "version": "2.8.0",
+  "description": "console fast with compiling ...",
+  "main": "hello.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfanDect/network-id09.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "gysss89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/network-id09/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/network-id09#readme",
+  "dependencies": {
+    "bako_peneker03": "^5.2.4",
+    "baso_kontol_real": "^1.1.4",
+    "project_teaaa": "^2.2.2"
+  }
+}
